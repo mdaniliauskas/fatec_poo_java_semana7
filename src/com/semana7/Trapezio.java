@@ -1,4 +1,4 @@
 package com.semana7;
 
-public class Trapezio extends Figura {
+public class Trapezio extends Quadrilatero {
 }

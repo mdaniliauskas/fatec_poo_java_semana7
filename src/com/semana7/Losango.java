@@ -1,4 +1,4 @@
 package com.semana7;
 
-public class Losango extends Figura {
+public class Losango extends Quadrilatero {
 }
